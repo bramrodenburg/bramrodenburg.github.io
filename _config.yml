@@ -1,0 +1,12 @@
+title: Bram Rodenburg 
+description: 
+  Data Engineer @ Lynx Analytics
+github_username: bramrodenburg
+linkedin_username: bramrodenburg
+twitter_username: bramrodenburg1
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
